@@ -1,3 +1,5 @@
+Download AHK : https://www.autohotkey.com/
+
 To get the Coord run AHK then click 'Window Spy' use the Coord in 'Screen' under Mouse Position
 
 All script have pause feature so use my mouse when I want to without click any hotkey
